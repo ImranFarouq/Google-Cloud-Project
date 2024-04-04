@@ -5,7 +5,9 @@ Sure, here's a content you can add to a README file for your GitHub repository:
 ```
 # Google Cloud Storage Utility
 
-This repository contains a Python class `GoogleCloudStorage` that provides a simple interface to interact with Google Cloud Storage. The class allows you to create, list, and manage buckets, as well as upload, download, and delete files in Google Cloud Storage.
+This repository contains a Python class `GoogleCloudStorage` that provides a simple interface
+to interact with Google Cloud Storage. The class allows you to create, list, and manage buckets,
+as well as upload, download, and delete files in Google Cloud Storage.
 
 ## Prerequisites
 
